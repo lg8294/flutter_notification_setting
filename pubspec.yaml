@@ -1,8 +1,8 @@
 name: flutter_notification_setting
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: lg
+homepage: https://github.com/lg8294/flutter_notification_setting
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

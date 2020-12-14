@@ -1,6 +1,6 @@
 # flutter_notification_setting
 
-A new Flutter plugin.
+打开应用的通知设置页面
 
 ## Getting Started
 
