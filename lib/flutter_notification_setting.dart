@@ -8,6 +8,7 @@ class FlutterNotificationSetting {
 
   /// 打开通知设置页面
   static Future<bool> openNotificationSettingPage() async {
-    return _channel.invokeMethod<bool>('openNotificationSettingPage');
+    final r = await _channel.invokeMethod<bool>('openNotificationSettingPage');
+    return r ?? false;
   }
 }
