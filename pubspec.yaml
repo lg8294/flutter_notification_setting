@@ -1,7 +1,6 @@
 name: flutter_notification_setting
-description: A new Flutter plugin.
-version: 0.1.0
-author: lg
+description: 打开Android 或 iOS 系统的通知设置页面，以便修改通知权限。
+version: 0.1.1
 homepage: https://github.com/lg8294/flutter_notification_setting
 
 environment:
