@@ -1,3 +1,7 @@
+## 0.1.3
+
+* support AGP 8.0+
+
 ## 0.1.2
 
 * 修改 kotlin-gradle-plugin version 为 1.6.10
